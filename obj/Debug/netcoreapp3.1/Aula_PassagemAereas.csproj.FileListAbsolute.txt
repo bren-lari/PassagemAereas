@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Aula_PassagemAereas\bin\Debug\netcoreapp3.1\Aula_PassagemAereas.exe
+C:\Users\dev\Desktop\Aula_PassagemAereas\bin\Debug\netcoreapp3.1\Aula_PassagemAereas.deps.json
+C:\Users\dev\Desktop\Aula_PassagemAereas\bin\Debug\netcoreapp3.1\Aula_PassagemAereas.runtimeconfig.json
+C:\Users\dev\Desktop\Aula_PassagemAereas\bin\Debug\netcoreapp3.1\Aula_PassagemAereas.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Aula_PassagemAereas\bin\Debug\netcoreapp3.1\Aula_PassagemAereas.dll
+C:\Users\dev\Desktop\Aula_PassagemAereas\bin\Debug\netcoreapp3.1\Aula_PassagemAereas.pdb
+C:\Users\dev\Desktop\Aula_PassagemAereas\obj\Debug\netcoreapp3.1\Aula_PassagemAereas.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Aula_PassagemAereas\obj\Debug\netcoreapp3.1\Aula_PassagemAereas.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Aula_PassagemAereas\obj\Debug\netcoreapp3.1\Aula_PassagemAereas.AssemblyInfo.cs
+C:\Users\dev\Desktop\Aula_PassagemAereas\obj\Debug\netcoreapp3.1\Aula_PassagemAereas.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Aula_PassagemAereas\obj\Debug\netcoreapp3.1\Aula_PassagemAereas.dll
+C:\Users\dev\Desktop\Aula_PassagemAereas\obj\Debug\netcoreapp3.1\Aula_PassagemAereas.pdb
+C:\Users\dev\Desktop\Aula_PassagemAereas\obj\Debug\netcoreapp3.1\Aula_PassagemAereas.genruntimeconfig.cache
